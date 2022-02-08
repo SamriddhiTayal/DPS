@@ -1,0 +1,27 @@
+body{
+  background-color:#EEEEEE;
+  font-size:1em;
+  color:#072227;
+  font-family: 'Montserrat', sans-serif;
+}
+.heading{
+  color:#064635;
+}
+.links{
+  text-decoration: inherit;
+  color:#064635;
+}
+.homebg{
+  background-color: #D3E4CD;
+}
+ul li{
+  display: inline;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: #fff solid 1px;
+  margin-left: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  }
